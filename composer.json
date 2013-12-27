@@ -1,0 +1,6 @@
+{
+    "name": "asper/mwb",
+    "type": "cakephp-plugin",
+    "description" : "Export Mysqlworkbench shemas to CakePHP schemas",
+    "keywords": ["cakephp", "mysqlworkbench", "mwb", "mysql"]
+}
